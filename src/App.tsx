@@ -1,8 +1,6 @@
 import { useState } from 'react'; 
 import Data from "./Data"; 
 
-import './App.css'
-
 function App() {
   const people = Data; 
 
